@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077868123610",
+    "project_id": "gcptest-df98c",
+    "storage_bucket": "gcptest-df98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077868123610:android:c7480bb8d60e2bdb0b9ce3",
+        "android_client_info": {
+          "package_name": "com.jrinconada.gcpfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnS6tAyYBmasFOiCBisQDddN_DJ0vH1Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
